@@ -6,7 +6,7 @@ This is an AI chatbot, named JARVIS, that runs in the terminal.
 
 Get your OpenAI API key at [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 
-Create a file named .env and add the following:
+Create a file named `.env` and add the following:
 
 ######
 
