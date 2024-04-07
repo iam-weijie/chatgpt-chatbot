@@ -12,6 +12,12 @@ Create a file named `.env` and add the following:
 
     OPENAI_API_KEY=[YourKey]
 
+Install dependencies:
+
+######
+
+    npm i openai readline-sync dotenv colors
+
 Run the bot:
 
 ######
