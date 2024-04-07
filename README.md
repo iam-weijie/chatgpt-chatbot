@@ -8,4 +8,4 @@ Run the bot:
 
 ######
 
-        npm start
+    npm start
