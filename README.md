@@ -1,2 +1,3 @@
-# chatgpt-chatbot
-Chatbot written in Node.js that uses the ChatGPT API
+# ChatGPT Chatbot
+
+This is an AI chatbot written in Node.js that runs in the terminal.
